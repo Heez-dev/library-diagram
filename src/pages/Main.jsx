@@ -22,7 +22,7 @@ const tableBody = {
 
 const Main = () => {
   return (
-    <article className="flex flex-col gap-10">
+    <article id="Main" className="flex flex-col gap-10">
       <section className="flex flex-col gap-3">
         <h3 className="font-semibold text-lg">라이브러리 비교 분석</h3>
         <Table.ScrollArea borderWidth="1px">

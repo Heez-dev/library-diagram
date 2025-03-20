@@ -1,5 +1,5 @@
 export const flowChartData = {
-  controlDetailInfoDtoList: [
+  edgeList: [
     {
       controlUid: 1,
       controlId: "CTRL-A00002",
@@ -14,7 +14,7 @@ export const flowChartData = {
       isDelete: null,
     },
   ],
-  resTaskDtoList: [
+  nodeList: [
     {
       taskUid: 1,
       taskId: "TASK-A000010",
